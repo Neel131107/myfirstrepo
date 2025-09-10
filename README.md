@@ -1,2 +1,4 @@
 # myfirstrepo
-This is my firat repositary
+This is my first repositary
+<br>
+I am using github for first time 
